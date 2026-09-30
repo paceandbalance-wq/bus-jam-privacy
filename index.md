@@ -88,15 +88,17 @@ and Google's Standard Contractual Clauses are there as a back-up.
 
 We keep your game progress while you have the game, so you can carry on where you left
 off. [Retention period for inactive players, e.g. we delete anonymous accounts that haven't
-been used for [N] months.] If you ask us to delete your data, we delete your player record
-and anonymous account [within 30 days]. Google keeps technical logs for limited periods
+been used for [N] months.] You can delete your data yourself at any time in the app
+(Settings > Delete my data): this immediately deletes your player record and your
+anonymous account and starts the game again from scratch. If you email us instead, we do
+the same [within 30 days]. Google keeps technical logs for limited periods
 under its own policies.
 
 ## Your rights
 
 You can ask us to access, correct, delete or export your data, to restrict or object to how
 we use it, and to withdraw consent for personalised ads at any time. In the app: Settings > Privacy options (ad consent)
-[and Settings > Delete my data, once built]. Or email [email address] with your player ID [shown in Settings]. If
+and Settings > Delete my data. Or email [email address] with your player ID [shown in Settings]. If
 you're not happy with our answer, you can complain to the Information Commissioner's
 Office (ico.org.uk).
 
